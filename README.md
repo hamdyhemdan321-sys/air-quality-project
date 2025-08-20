@@ -1,7 +1,3 @@
-تمام ✨ هكتبلك دلوقتي نسخة **README.md** جاهزة، تقدر تحطها جنب ملف الكولاب في GitHub.
-
----
-
 # Air Quality Prediction
 
 ## 📌 Project Overview
